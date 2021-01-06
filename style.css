@@ -11,11 +11,20 @@ h1{
     color: rgb(27, 27, 66);
 }
 .halfWidth{
-    width: 40%;
+    width: 30%;
     float: left;
-    margin-left: 5%;
+    margin-left: 10%;
     padding-left: 2%;
 }
 .halfWidth img{
     width: 100%;
+}
+.linkButton{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, lightSalmon);
+   
+    padding: 15px 50px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
 }
