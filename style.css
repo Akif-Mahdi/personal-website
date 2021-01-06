@@ -34,15 +34,15 @@ section{
 }
 p{
     font-size: 25px;
-    color: slategrey;
+    color: rgb(174, 189, 204);
     padding-right: 5px;
 }
 h2{
     font-size: 40px;
 }
 #download{
-    height: 60px;
-    width: 200px;
+    height: 15px;
+    width: 25px;
 }
 .workingProject{
     background-color: rgb(223, 234, 245);
