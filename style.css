@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.tomato{
+    color: tomato;
+}
+.blue{
+    color: rgb(27, 27, 66);
+}
+.halfWidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfWidth img{
+    width: 100%;
+}
