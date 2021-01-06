@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 80px;
 }
 .tomato{
     color: tomato;
@@ -11,12 +11,12 @@ h1{
     color: rgb(27, 27, 66);
 }
 .halfWidth{
-    width: 30%;
+    width: 40%;
     float: left;
-    margin-left: 10%;
-    padding-left: 2%;
+    margin-left: 5%;
+    padding-left: 5%;
 }
-.halfWidth img{
+.halfWidthIMG{
     width: 100%;
 }
 .linkButton{
@@ -27,4 +27,26 @@ h1{
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 70px;
+}
+p{
+    font-size: 25px;
+    color: slategrey;
+    padding-right: 5px;
+}
+h2{
+    font-size: 40px;
+}
+#download{
+    height: 60px;
+    width: 200px;
+}
+.workingProject{
+    background-color: rgb(223, 234, 245);
+}
+#workingProjectHeader{
+    text-align: center;
 }
