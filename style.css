@@ -46,7 +46,81 @@ h2{
 }
 .workingProject{
     background-color: rgb(223, 234, 245);
+
 }
 #workingProjectHeader{
     text-align: center;
+}
+
+.halfWidth_LtPr{
+    background-color: snow;
+    align-self: center;
+    float: left;
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    margin-left: 7.8%;
+    padding-left: 2%;
+}
+.wpIMG{
+    width: 100%;
+}
+.liveChat{
+    background-image: url("images/Group_33094_1.png");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 80%;
+    margin-left: 2.5%;
+    /*padding-left: 1%;*/
+    background-position: center;
+}
+.white{
+    color: snow;
+    text-align: justify;
+    margin-left: 20%;
+    padding-top: 7.5%;
+}
+#chat{
+    margin-left: 70%;
+    margin-top:110%;
+}
+#headerTeam{
+    margin-left: 70px;
+}
+.halfWidth_team{
+    background-color: rgb(161, 192, 218);
+    background-image: linear-gradient();
+    align-self: center;
+    float: left;
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    margin-left: 7.8%;
+    padding-left: 2%;
+    height: 80%;
+}
+h4{
+    text-align: center;
+}
+.team_H{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(18, 35, 49);
+}
+#mail{
+    color: navy;
+    text-align: center;
+    font-size: 35px;
+}
+.footty{
+    color: gray;
+}
+.footIMG{
+    width: 20px;
+    position: center;
+   
+}
+#prothom{
+    margin-left: 47%;
 }
